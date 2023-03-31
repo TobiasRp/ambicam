@@ -1,3 +1,6 @@
+# Common cmake build dir
+build/*
+
 # Prerequisites
 *.d
 
